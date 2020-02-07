@@ -1,1 +1,5 @@
 # theme: jekyll-theme-modernist
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
